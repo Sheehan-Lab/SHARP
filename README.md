@@ -64,6 +64,14 @@ A sample batch file is provided in `3_Standalone_Executable/SHARP_Batch_Template
 - **Classification Method**: Identifies whether the diagnosis was determined via Tier-1 clinical heuristics or Tier-2 machine learning inference.
 - **TreeSHAP Attributions**: Quantitative impact of each electrophoresis fraction and CBC parameter on the predicted class.
 
-## Citation and License
+## License
 
-This software is provided under the terms of the repository license. If you use SHARP in your research, please cite the corresponding publication from the Sheehan Lab.
+This project is released under a dual noncommercial licensing structure:
+- **Software Code**: The source code, application scripts, user interface assets, and standalone executables are licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/).
+- **Models and Data**: The trained model weights, parameters, serialized workflow files (`.rds`), and documentation are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+
+Commercial use of either the software code or the model artifacts is strictly prohibited without explicit written permission from the Sheehan Lab.
+
+## Citation
+
+If you use SHARP in your research or clinical workflows, please cite the corresponding publication from the Sheehan Lab.
