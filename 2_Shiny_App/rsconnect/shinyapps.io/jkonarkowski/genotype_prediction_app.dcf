@@ -1,0 +1,10 @@
+name: genotype_prediction_app
+title:
+username: jkonarkowski
+account: jkonarkowski
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14996304
+bundleId: 12800755
+url: https://jkonarkowski.shinyapps.io/genotype_prediction_app/
+version: 1
