@@ -1,5 +1,5 @@
 ================================================================================
-SHARP: Sickle cell Hemoglobinopathy Automated Resolution Program (v2.0)
+SHARP: Sickle-cell Hemoglobin Analysis via Rules and Prediction
 Standalone Offline Application for Windows
 ================================================================================
 

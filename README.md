@@ -1,4 +1,4 @@
-# SHARP: Sickle Cell Hemoglobinopathy Automated Resolution Program
+# SHARP: Sickle-cell Hemoglobin Analysis via Rules and Prediction
 
 SHARP is an explainable machine learning clinical decision support framework for sickle cell disease genotyping. It classifies hemoglobin variants (HbSS, HbSC, HbS/beta-plus, HbS/beta-zero, and sickle trait/other variants) using quantitative hemoglobin electrophoresis fractions and optional Complete Blood Count (CBC) parameters.
 
